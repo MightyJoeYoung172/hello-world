@@ -1,2 +1,3 @@
 # hello-world
 Just got my training wheels on...
+My name is Joseph, I'm a 22 year old Mechanical Engineering assistant/college intern trying to learn a new trade in a similar feild.
